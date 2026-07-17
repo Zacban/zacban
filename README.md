@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Jesper 👋
 
-<!--
-**Zacban/zacban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer with 15+ years of experience** — now building modern products with .NET, Next.js and an AI-first workflow, working toward shipping my own software.
 
-Here are some ideas to get you started:
+## 🔨 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[FamilyPlanner](LINK-TO-REPO)** — a family organizer for real household use, built as a production-grade monorepo:
+
+- **Frontend:** Next.js (App Router), TypeScript
+- **Backend:** ASP.NET Core Web API, microservice architecture
+- **Database:** PostgreSQL (multi-tenant, full-text search)
+- **Auth:** Google OIDC + device tokens for a shared kitchen tablet
+- **Infra:** Docker, WSL 2, GitHub Actions
+
+I document my architecture decisions as I go — see [`DECISIONS.md`](LINK-TO-DECISIONS) for the reasoning behind the data model, role-based authorization, and service boundaries.
+
+## 🤖 How I work
+
+I build AI-first: Claude Code is part of my daily workflow — agent-driven development, custom hooks, and structured planning. After years of enterprise development, I'm deliberately rebuilding my stack in public and sharing what I learn along the way.
+
+## 🧭 Where I'm headed
+
+- Shipping FamilyPlanner to production for my own family
+- Exploring SaaS ideas born from real problems
+- Writing about full-stack architecture and AI-assisted development
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/zacban)
+- 📍 Denmark
+
+---
+
+*Currently deep in: PostgreSQL full-text search, microservice patterns in .NET, and getting the most out of agentic coding tools.*
