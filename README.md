@@ -18,6 +18,15 @@ I document my architecture decisions as I go — see [`DECISIONS.md`](LINK-TO-DE
 
 I build AI-first: Claude Code is part of my daily workflow — agent-driven development, custom hooks, and structured planning. After years of enterprise development, I'm deliberately rebuilding my stack in public and sharing what I learn along the way.
 
+## 🖥️ Home Lab
+
+A work in progress: a small headless server where I experiment with self-hosting and AI-assisted development.
+
+- **Hardware:** Lenovo ThinkCentre M720Q Tiny — Intel i5-9400T, 8 GB RAM
+- **OS:** Ubuntu Server (headless)
+- **Containers:** Docker Engine and Docker Compose, installed and tested
+- **AI tooling:** Claude Code and Antigravity CLI running directly on the server under a separate development user
+
 ## 🧭 Where I'm headed
 
 - Shipping FamilyPlanner to production for my own family
